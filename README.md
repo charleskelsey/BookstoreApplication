@@ -1,5 +1,4 @@
 # BookstoreApplication
-The final project of COE528
 
 Worked alongside a team of 3 to build a desktop application that allows users to purchase books, 
 and enables administrators to update and track book inventory while also having access to a customer 
